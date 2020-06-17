@@ -332,7 +332,7 @@ export const fifaData = [
   {
     "Year": 1930,
     "Datetime": "26 Jul 1930 - 14:45",
-    "Stage": "Semi-finals",
+    "Stage": "Semi-u",
     "Stadium": "Estadio Centenario",
     "City": "Montevideo",
     "Home Team Name": "Argentina",
